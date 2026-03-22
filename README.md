@@ -9,7 +9,7 @@ Enterprise documentation for a Microsoft 365 tenant covering Conditional Access,
 | [Conditional Access Policies](docs/01-Conditional-Access-Policies.md) | 15 policies governing MFA, legacy auth blocking, device compliance, and app protection |
 | [Device Compliance Policies](docs/02-Device-Compliance-Policies.md) | Windows 11, Android, and VM compliance requirements |
 | [Configuration Profiles](docs/03-Configuration-Profiles.md) | Windows Update Ring policy and patching behaviour |
-| [Full Report (Word)](M365-Tenant-Configuration-Overview.docx) | Downloadable client-ready Word document with all sections |
+| [Tenant Overview (PDF)](M365-Tenant-Configuration-Overview.pdf) | Downloadable PDF — CA, Compliance, and Config Profiles |
 
 ## Key Highlights
 
@@ -18,10 +18,10 @@ Enterprise documentation for a Microsoft 365 tenant covering Conditional Access,
 - **Device compliance** requires BitLocker, Secure Boot, and encryption on Windows 11 endpoints
 - **Windows Update Ring** defers quality and feature updates by 4 days with an 8-day deadline
 
-## Classification
+## Author
 
-This documentation is **Confidential**. All tenant-specific identifiers (GUIDs, user IDs, group IDs) have been removed.
+Prepared by **Olu Adelokiki** — [LinkedIn](https://www.linkedin.com/in/olukunmi-adelokiki)
 
 ---
 
-*Generated: 2026-03-21*
+*Generated: 2026-03-22*
